@@ -1,2 +1,2 @@
 # DaLA
-Data-Augmented Language Agent
+Data-Augmentation with Language Agent
